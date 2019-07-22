@@ -1,0 +1,38 @@
+// Only add variables here if they are shared in SASS and Tailwind.
+// Otherwise, put in _settings.scss
+{
+  "breakpoints": {
+    "sm": "576px",
+    "md": "768px",
+    "lg": "992px",
+    "xl": "1200px"
+  },
+
+  "spacing": "8rem",
+
+  "grid-gutter": {
+    xs: "10px",
+    sm: "20px",
+    md: "30px",
+    lg: "40px"
+  },
+
+  // Colours
+  // http://chir.ag/projects/name-that-color/
+  "transparent": "transparent",
+  "white": "#FFFFFF",
+  "black": "#000000",
+  "black-space": "#273239",
+  "black-ash": "#313E47",
+  "gray-dusty": "#9B9B9B",
+  "gray-iron": "#DCE0E3",
+  "gray-porcelain": "#E6E9EB",
+  "gray-sand": "#F4F4F4",
+  "orange-raken": "#F26620",
+  "blue-cerulean": "#00A2ED",
+  "green-jade": "#03B17E",
+  "red-monza": "#d0011b",
+
+  // Timings
+  "timing-transition": "0.35s"
+}

@@ -1,0 +1,34 @@
+# Default Settings
+.DS_Store
+.env
+.idea
+/img/
+/dist/
+/node_modules/
+/bower_components/
+/local/cache/*
+/local/storage/*
+/local/temp/*
+installer.php
+
+# Theme Files
+/site/themes/raken-2.0/dist/*
+/site/themes/raken-2.0/js/all.js
+/site/themes/raken-2.0/js/all.js.map
+/site/themes/raken-2.0/css/raken-2.0.css
+
+# SSL Files
+# /site/themes/raken-2.0/build/*.conf
+# /site/themes/raken-2.0/build/*.crt
+# /site/themes/raken-2.0/build/*.key
+# /site/themes/raken-2.0/build/*.pem
+# /site/themes/raken-2.0/build/*.csr
+
+
+# Cache Folders
+/static
+
+
+# Cypress Files
+/site/themes/raken-2.0/cypress/videos/*
+/site/themes/raken-2.0/cypress/screenshots/*
