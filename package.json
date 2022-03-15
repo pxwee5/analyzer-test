@@ -58,7 +58,7 @@
     "glider-js": "^1.6.5",
     "intersection-observer": "^0.5.1",
     "load-script": "^1.0.0",
-    "lodash-es": "^4.17.11",
+    "lodash-es": "^4.17.21",
     "promise-polyfill": "^8.1.0",
     "smoothscroll-polyfill": "^0.4.4",
     "svgstore": "^3.0.0-2",
